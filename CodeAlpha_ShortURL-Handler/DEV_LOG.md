@@ -1,0 +1,33 @@
+
+- [2025-10-02 11:18] init: initialized project with npm and git
+- [2025-10-03 15:40] set up basic express server structure
+- [2025-10-04 15:26] added nodemon for development workflow
+- [2025-10-06 23:13] created first GET route /api/health
+- [2025-10-07 19:37] fix: resolved port conflict issue
+- [2025-10-08 16:48] doccumentation: updated readme with project goals
+- [2025-10-02 15:54] init: initialized project with npm and git
+- [2025-10-03 12:45] set up basic express server structure
+- [2025-10-04 15:35] added nodemon for development workflow
+- [2025-10-06 23:42] created first GET route /api/health
+- [2025-10-07 23:19] fix: resolved port conflict issue
+- [2025-10-08 22:58] documentation: updated readme with project goals
+- [2025-10-01 16:16] init: initial project structure with npm
+- [2025-10-02 18:39] installed express and created server entry point
+- [2025-10-03 10:34] configured nodemon for hot reloading
+- [2025-10-06 18:43] implemented basic health check route
+- [2025-10-07 16:46] documentation: added project architecture to readme
+- [2025-10-08 15:32] feat: set up mongodb connection using mongoose
+- [2025-10-09 12:07] fix: resolved db connection timeout issue
+- [2025-10-10 20:19] created UrlSchema with shortId and redirectUrl
+- [2025-10-13 11:58] added nanoid for unique string generation
+- [2025-10-14 14:30] tested DB: wrote script to verify schema validation
+- [2025-10-15 18:56] feat: implemented POST /shorten endpoint
+- [2025-10-16 14:36] implemented GET /:id redirect logic
+- [2025-10-17 10:02] fix: added error handling for invalid urls
+- [2025-10-19 12:10] separated routes into dedicated folder
+- [2025-10-20 13:21] added click count tracking to model
+- [2025-10-21 22:07] test: manual testing of redirect latency
+- [2025-10-22 23:02] chore: init client folder for react app
+- [2025-10-23 22:43] created basic input form component
+- [2025-10-24 22:15] style:added css for centering the form
+- [2025-10-27 14:18] integrated axios for frontend-backend communication
